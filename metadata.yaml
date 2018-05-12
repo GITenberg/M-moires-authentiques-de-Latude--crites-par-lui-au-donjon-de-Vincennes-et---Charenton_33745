@@ -1,0 +1,36 @@
+_repo: M-moires-authentiques-de-Latude--crites-par-lui-au-donjon-de-Vincennes-et---Charenton_33745
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33745-h/images/cover.png
+creator:
+  author:
+    agent_name: Latude, Henri Masers de
+    aliases:
+    - Masers de Latude, Jean-Henry
+    - Tude, Henri Masers de La
+    - Latude, Jean-Henry
+    - De Latude, Henri Masers
+    birthdate: 1725
+    deathdate: 1805
+    gutenberg_agent_id: '36586'
+    url: http://www.gutenberg.org/2009/agents/36586
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33745'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Bastille'
+- !lcsh 'Political prisoners -- France'
+- !lcsh 'Latude, Henri Masers de, 1725-1805'
+title: 'Mémoires authentiques de Latude,
+
+  écrites par lui au donjon de Vincennes et à Charenton'
+url: http://www.gutenberg.org/ebooks/33745
